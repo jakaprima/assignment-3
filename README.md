@@ -1,0 +1,8 @@
+- INSTALASI
+- GO ROOT & GO PATH
+- SETUP GO WORKSPACE
+- GO MODULES
+- INIT PROJECT
+-- run: go mod init nama_project_1
+- run script: go run main.go
+- run lebih dari 1 script: go run main.go library.go
